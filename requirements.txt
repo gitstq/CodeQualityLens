@@ -1,0 +1,3 @@
+# CodeQualityLens - Zero Dependency Core
+# This file is kept for compatibility; the tool runs with Python standard library only.
+# Python >= 3.8 required
